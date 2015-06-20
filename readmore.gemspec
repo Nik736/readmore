@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Readmore::VERSION
   spec.authors       = ["Niklas Karoly"]
   spec.email         = ["niklas.karoly@googlemail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{A Ruby Wrapper for the readmore.de API}
+  spec.description   = %q{}
+  spec.homepage      = "https://github.com/Nik736/readmore"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
